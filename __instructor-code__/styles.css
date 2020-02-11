@@ -1,0 +1,48 @@
+* {
+    margin: 0px;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+li {
+    color: red;
+}
+
+.not-a-link {
+    color: yellow;
+}
+
+#heading-five {
+    color: green;
+}
+
+div p {
+    color: blue;
+    font-size: 20px;
+    font-family: sans-serif;
+    font-weight: bold;
+    text-align: center;
+    line-height: 5px;
+    letter-spacing: 3px;
+}
+
+header:hover {
+    background-color: hotpink;
+}
+
+button {
+    height: 30px;
+    width: 30px;
+    padding: 5px;
+    box-sizing: border-box;
+}
+
+footer {
+    height: 350px;
+    background-image: url('https://i.kym-cdn.com/entries/icons/facebook/000/003/047/omg.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}

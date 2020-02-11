@@ -1,0 +1,54 @@
+a {
+   text-decoration: none;
+   color: white;
+}
+
+a:hover {
+   color: yellow;
+}
+
+/* * {
+   margin: 0;
+} */
+
+.not-a-link {
+   color: yellow;
+
+}
+
+#heading-five {
+   color:blue;
+}
+
+li {
+   color:red;
+
+}
+
+div p {
+   color: green;
+   font-size: 20px;
+   font-family: Arial, Helvetica, sans-serif;
+   font-weight: bold;
+   text-align: center;
+   line-height: 50px;
+   letter-spacing: 3px;
+}
+
+header:hover {
+   background-color: hotpink;
+}
+
+button {
+   height: 30px;
+   width: 30px;
+   padding: 5px;
+   box-sizing: border-box;
+}
+
+footer  {
+   height: 350px;
+   background-image: url(https://vignette.wikia.nocookie.net/nickelodeon-movies/images/7/7e/Patrick_Star.png/revision/latest?cb=20180107193038);
+   background-repeat: no-repeat;
+   background-size: contain;
+}
